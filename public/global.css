@@ -29,6 +29,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+	background-color: #f6f6f6;
+	background-image: linear-gradient(315deg, #f6f6f6 0%, #e9e9e9 74%);
 	line-height: 1;
 }
 ol, ul {
@@ -46,4 +48,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700&display=swap');
+
 
